@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+#MENU
+{
+	background-image:url(../image/wall.jpg);
+
+	border-radius:45px;
+	height:90%;
+	width:80%;
+	margin-left:9%;;
+}
+#rotate
+{
+	float:left;
+	width:20%;
+	height:60%;
+	display:block;
+background:orange;
+margin-top:5%;
+margin-left:8%;
+list-style:none;
+text-decoration:none;
+color:#FFF;
+font-weight:bolder;
+padding:2px;
+
+-webkit-border-radius:8px;
+text-align:center;
+
+
+}
+#rotate:hover
+{
+
+background-image:url(../image/wall.jpg);
+border-radius:25px;
+
+}
+input
+{
+	background-color: #FFC;
+}

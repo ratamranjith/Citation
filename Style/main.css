@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+#log
+{
+	width: 120px;
+	height: 120px;
+	float:left;
+	
+	color: #00F;
+	background: url(../image/Login.jpg);
+	margin: 12px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 12px;
+}
+
+a
+{
+	text-decoration:none;
+	font-weight:200;
+}
+
+
+h
+{
+	font:Arial, Helvetica, sans-serif;
+	
+}
+#log:hover
+{
+	
+	
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;
+	margin:12px;
+	color:#F00;
+	width:240px;
+	background:url(../image/Loginh.jpg);
+	
+}
+#head
+{
+	background: #000;
+	width: 100%;
+	height: 22px;
+	color: #FFF;
+	text-shadow: 2px 2px 2px #9F0;
+	
+}
+#hea
+{
+	background:#000;
+	margin:0px;
+	width:100%;
+	height:24px;
+	color:#FFF;
+	text-shadow:#006;
+	
+}
+}
+#ori
+{
+	display:-webkit-box;
+-webkit-box-orient:horizontal;
+-webkit-box-align:center;
+	display:-moz-box;
+	-moz-box-orient:horizontal;
+	-moz-box-align:center;
+	
+}
+#login
+{
+	float:right;
+	widht:300px;
+	height:400px;
+	margin-top:55px;
+	margin-left:550px;
+	background:#FFF;
+}
+#body 
+{
+	margin-top:0px;
+}
+#space
+{
+	float:left;
+	width:260px;
+}
+#Entry
+{
+	width:40%;
+	height: 90%;
+	background-color: #F96;
+	margin-left:100px;
+	font:Arial, Helvetica, sans-serif;
+}
+#vsp
+{
+	margin-top:10px;
+}

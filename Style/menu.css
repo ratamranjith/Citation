@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+#parent
+{
+	margin-left:70px;
+display:-webkit-box;
+-webkit-box-orient:horizontal;
+-webkit-box-align:center;
+width:800px;
+}
+a {
+	text-decoration:none;
+}
+#child
+{
+border:2px solid orange;
+text-align:center;
+color:#FFF;
+height:20%;
+background-color:#60C;
+-webkit-box-flex:1;
+margin-top:30px;
+margin-left:50px;
+padding:10px;
+width:120px;
+-webkit-border-top-right-radius:12px;
+-webkit-border-bottom-left-radius:12px;
+}
+#child:hover
+{
+	background-color:#06F;
+	color:#FF0;
+}
+#ba
+{
+	background:url(../image/colorful_waves-wallpaper-1366x768.jpg) top;
+}
+#reg 
+{
+	font-weight:bold;
+}
+#border
+{
+	border-top-left-radius:18px;
+	border-top-right-radius:18px;
+	background-color:#FC6;
+	font-size:16px;
+	font-weight:bolder;
+	text-align:center;
+}
+#bor1
+{
+	text-align:left;
+	background-color:#6FF;
+}
